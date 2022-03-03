@@ -8,5 +8,4 @@ export const GET_CONTINETS = gql`
     }
   }
 
-
 `
